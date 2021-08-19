@@ -24,4 +24,5 @@
 ## Before we start, we should learn something
 ![image](https://user-images.githubusercontent.com/67073582/130128860-e2d329c1-d4e3-494b-bca2-8d99bcb6af8f.png) <br>
 * we should know the file structure.
+* This is linux file structure, and windows also have similar file structure.
 
