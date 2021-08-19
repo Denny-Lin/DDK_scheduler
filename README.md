@@ -1,2 +1,2 @@
 # DDK_scheduler
-Just think how to make a scheduler in the OS. 
+Just think about how to make a scheduler in the OS. 
