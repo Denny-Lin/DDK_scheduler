@@ -2,7 +2,7 @@
 * Just think about how to make a scheduler in the OS. 
 * Well, because my major is scheduler in the OS, and actually if we know the binary code, it is easy just copy a part of binary code to the kernal space and execuate.
 * Give this task(process) a peroid of execution time and caculate the utilaztion.
-* Store some information of the first task and chage(context switch) to the second task and execute it.
+* Store some information of the first task and change(context switch) to the second task and execute it.
 * Loop it quickly, and it looks like we execute two tasks in the same time.  
 
 ## Prior Knowledge
